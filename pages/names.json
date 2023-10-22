@@ -1,46 +1,37 @@
 [
     {
-        "id":1,
         "name" : "Rohit Sharma"
     },
     {
-        "id":2,
         "name" : "Subhman Gill"
     },
     {
-        "id":3,
         "name" : "Virat Kohli"
     },
     {
-        "id":4,
         "name" : "KL Rahul"
     },
     {
-        "id":5,
         "name" : "Suryakumar Yadav"
     },
     {
-        "id":6,
         "name" : "Hardik Pandya"
     },
     {
-        "id":7,
         "name" : "Ravindra Jadeja"
     },  
     {
-        "id":8,
         "name" : "Ravicandran Ashwin"
     },
     {
-        "id":9,
         "name" : "Kuldeep Yadav"
     },
     {
-        "id":10,
+
         "name" : "Jasprit Bumrah"
     },
     {
-        "id":11,
+
         "name" : "Mohammed Siraj"
     }
 ]
